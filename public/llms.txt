@@ -1,0 +1,109 @@
+# Rozi Therapy — Generative Engine Optimization Map
+
+> A unique handcrafted business combining two creative worlds: natural pharmacy products made personally by a pharmacist/herbalist, and gemstone jewelry created by hand. The brand has a holistic, artisanal identity rooted in nature, healing, and craftsmanship. The website needs to serve as both an e-commerce platform for products and a hub for workshops and events, reflecting the personal and authentic nature of the creator's work.
+
+---
+
+## Pages
+
+### בית
+https://rozi-therapy-49f7d3ca.zappy5.app
+ברוכים הבאים לעולם של רוקחות טבעית תוצרת בית ישראל ותכשיטים מאבני חן בעבודת יד. מוצרי בריאות טבעיים, אבני חן לריפוי רוחני וסדנאות יצירה מחכות לכם. התחילו לחקור עכשיו!
+
+### אודות
+https://rozi-therapy-49f7d3ca.zappy5.app/about
+הציצו אל מאחורי הקלעים של Rozi Therapy: רוקחת וצורפת שמשלבת אהבה לצמחי מרפא עם יצירת תכשיטי אבני חן לריפוי רוחני. סיפור אישי של אומנות וריפוי מחכה לכם כאן.
+
+### סדנאות
+https://rozi-therapy-49f7d3ca.zappy5.app/workshops
+חוויה מעשית בסדנאות רוקחות טבעית וסדנאות אבני חן וריפוי טבעי. למדו ליצור מוצרי בריאות ותכשיטים מאבני חן בעבודת יד בהנחיה אישית. הירשמו עוד היום וגלו את הכוח שבידיים שלכם!
+
+### חומרים ויצירה
+https://rozi-therapy-49f7d3ca.zappy5.app/materials-craft
+כל מה שצריך ליצירה טבעית: חומרים לרוקחות טבעית תוצרת בית ישראל, אבני חן גולמיות לתכשיטים מאבני חן בעבודת יד וערכות מיוחדות לסדנאות. הצטיידו והתחילו ליצור בעצמכם עוד היום!
+
+### צור קשר
+https://rozi-therapy-49f7d3ca.zappy5.app/contact
+יש לכם שאלה על סדנאות רוקחות טבעית, תכשיטי אבני חן לריפוי רוחני או מוצרי בריאות טבעיים בעבודת יד? מלאו את הטופס ואחזור אליכם עם תשובה אישית שתקרב אתכם לריפוי טבעי אמיתי.
+
+### Products
+https://rozi-therapy-49f7d3ca.zappy5.app/products
+המוצרים שלנו - Rozi Therapy
+
+### Cart
+https://rozi-therapy-49f7d3ca.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://rozi-therapy-49f7d3ca.zappy5.app/checkout
+תשלום
+
+### Login
+https://rozi-therapy-49f7d3ca.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://rozi-therapy-49f7d3ca.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://rozi-therapy-49f7d3ca.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://rozi-therapy-49f7d3ca.zappy5.app/product/:slug
+פרטי המוצר - Rozi Therapy
+
+### Category
+https://rozi-therapy-49f7d3ca.zappy5.app/category/:slug
+מוצרים - Rozi Therapy
+
+### תודה - Rozi Therapy
+https://rozi-therapy-49f7d3ca.zappy5.app/thank-you
+Rozi Therapy - תודה - Rozi Therapy
+
+## Legal & Policy
+
+### Privacy Policy
+https://rozi-therapy-49f7d3ca.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://rozi-therapy-49f7d3ca.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://rozi-therapy-49f7d3ca.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Rozi Therapy
+A unique handcrafted business combining two creative worlds: natural pharmacy products made personally by a pharmacist/herbalist, and gemstone jewelry created by hand. The brand has a holistic, artisanal identity rooted in nature, healing, and craftsmanship. The website needs to serve as both an e-commerce platform for products and a hub for workshops and events, reflecting the personal and authentic nature of the creator's work.
+
+## Target Audience
+- חובבי בריאות טבעית
+- אספני תכשיטים מאבני חן
+- עוקבי רווחה רוחנית
+- משתתפי סדנאות
+
+## Industry
+Natural Pharmacy & Handmade Jewelry
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://rozi-therapy-49f7d3ca.zappy5.app/sitemap.xml
+- Robots: https://rozi-therapy-49f7d3ca.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://rozi-therapy-49f7d3ca.zappy5.app/llms-full.txt
+- Products (JSON): https://rozi-therapy-49f7d3ca.zappy5.app/products.json
+- Products (Google Merchant RSS): https://rozi-therapy-49f7d3ca.zappy5.app/product-feed.xml
